@@ -38,19 +38,3 @@
   <img src="https://github-profile-trophy.vercel.app/?username=Navindu2k21&theme=onedark&row=1&column=6" alt="Trophies"/>
 </p>
 
----
-
-### 🌐 Connect With Me  
-
-<p align="center">
-  <a href="https://github.com/Navindu2k21">
-    <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-  <a href="www.linkedin.com/in/navindu-alahakoon-8a83ab1aa">
-    <img src="https://img.shields.io/badge/LinkedIn-0e76a8?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-</p>
-
----
-
-⭐ *If you like my profile, don’t forget to follow me!*  
